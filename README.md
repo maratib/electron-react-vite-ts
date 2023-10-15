@@ -1,6 +1,6 @@
 # electron-react-starter
 
-Electron, React, Typescript, TailwindCSS, DaisyUI
+Electron, React, Vite, Typescript, TailwindCSS, DaisyUI
 
 ## DaisyUI
 Light and Dark themes.
